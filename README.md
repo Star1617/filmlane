@@ -1,9 +1,9 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/mianawais99/filmlane)
-  ![GitHub stars](https://img.shields.io/github/stars/mianawais99/filmlane?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/mianawais99/filmlane?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/mianawais99?style=social)](https://twitter.com/intent/follow?screen_name=mianawais99)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Star1617/filmlane)
+  ![GitHub stars](https://img.shields.io/github/stars/Star1617/filmlane?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/Star1617/filmlane?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/Star1617?style=social)](https://twitter.com/intent/follow?screen_name=Star1617)
   <br />
   <br />
   
@@ -13,7 +13,7 @@
 
   Filmlane is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://mianawais99.github.io/filmlane/"><strong>➥ Live Demo</strong></a>
+  <a href="https://Star1617.github.io/filmlane/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -36,18 +36,18 @@ To run **Filmlane** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/mianawais99/filmlane.git
+sudo git clone https://github.com/Star1617/filmlane.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/mianawais99/filmlane.git
+git clone https://github.com/Star1617/filmlane.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/mianawais99).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/Star1617).
 
 ### License
 
